@@ -1,0 +1,14 @@
+F:\BaiTapTuan2\BaiTapTuan2\BaiTapTuan2\bin\Debug\netstandard2.0\BaiTapTuan2.deps.json
+F:\BaiTapTuan2\BaiTapTuan2\BaiTapTuan2\bin\Debug\netstandard2.0\BaiTapTuan2.dll
+F:\BaiTapTuan2\BaiTapTuan2\BaiTapTuan2\bin\Debug\netstandard2.0\BaiTapTuan2.pdb
+F:\BaiTapTuan2\BaiTapTuan2\BaiTapTuan2\obj\Debug\netstandard2.0\BaiTapTuan2.csprojAssemblyReference.cache
+F:\BaiTapTuan2\BaiTapTuan2\BaiTapTuan2\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\BaiTapTuan2\BaiTapTuan2\BaiTapTuan2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\BaiTapTuan2\BaiTapTuan2\BaiTapTuan2\obj\Debug\netstandard2.0\PageListviewHoa.xaml.g.cs
+F:\BaiTapTuan2\BaiTapTuan2\BaiTapTuan2\obj\Debug\netstandard2.0\BaiTapTuan2.csproj.CoreCompileInputs.cache
+F:\BaiTapTuan2\BaiTapTuan2\BaiTapTuan2\obj\Debug\netstandard2.0\BaiTapTuan2.AssemblyInfoInputs.cache
+F:\BaiTapTuan2\BaiTapTuan2\BaiTapTuan2\obj\Debug\netstandard2.0\BaiTapTuan2.AssemblyInfo.cs
+F:\BaiTapTuan2\BaiTapTuan2\BaiTapTuan2\obj\Debug\netstandard2.0\XamlC.stamp
+F:\BaiTapTuan2\BaiTapTuan2\BaiTapTuan2\obj\Debug\netstandard2.0\BaiTapTuan2.dll
+F:\BaiTapTuan2\BaiTapTuan2\BaiTapTuan2\obj\Debug\netstandard2.0\BaiTapTuan2.pdb
+F:\BaiTapTuan2\BaiTapTuan2\BaiTapTuan2\obj\Debug\netstandard2.0\PagelistviewGroup.xaml.g.cs
